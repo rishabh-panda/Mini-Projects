@@ -18,3 +18,8 @@ Specific statistical functions and techniques you can perform with EDA tools inc
 - Multivariate visualizations, for mapping and understanding interactions between different fields in the data.<br />
 - K-means Clustering is a clustering method in unsupervised learning where data points are assigned into K groups, i.e. the number of clusters, based on the distance from each group’s centroid. The data points closest to a particular centroid will be clustered under the same category. K-means Clustering is commonly used in market segmentation, pattern recognition, and image compression.<br />
 - Predictive models, such as linear regression, use statistics and data to predict outcomes.<br />
+
+## Some of the most common data science tools used to create an EDA include:
+
+- **Python:** An interpreted, object-oriented programming language with dynamic semantics. Its high-level, built-in data structures, combined with dynamic typing and dynamic binding, make it very attractive for rapid application development, as well as for use as a scripting or glue language to connect existing components together. Python and EDA can be used together to identify missing values in a data set, which is important so you can decide how to handle missing values for machine learning.
+- **R:** An open-source programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians in data science in developing statistical observations and data analysis.
